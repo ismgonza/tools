@@ -1,3 +1,6 @@
 [submodule "pyenv_upgrader"]
 	path = pyenv_upgrader
 	url = https://github.com/ismgonza/pyenv_upgrader.git
+[submodule "cobit2019"]
+	path = cobit2019
+	url = https://github.com/ismgonza/cobit2019.git
